@@ -1,0 +1,13 @@
+#! ../yasl_linux_static
+
+0:!
+0:!
+#
+
+{
+0:print
+"\n":0
+0:print
+}printnl
+
+%?#printnl

@@ -1,0 +1,32 @@
+#! ../yasl_linux_static
+
+0:!
+0:!
+
+{
+0:print
+"\n":0
+0:print
+}printnl
+
+0:7
+
+0:0
+//error handling for not num
+0:+:0
+0:=:1
+!
+
+{
+	1:1
+	1:%+:1
+
+	1:7
+	1:%+:7
+
+	1:=:2
+	2:print
+}increase
+
+increase
+increase
